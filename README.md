@@ -16,3 +16,5 @@ Svelte 5.0 demo with Vite.js and TypeScript.
 * Introducing Svelte 5: https://frontendmasters.com/blog/introducing-svelte-5/
 * Snippets in Svelte 5: https://frontendmasters.com/blog/snippets-in-svelte-5/
 * Fine-Grained Reactivity in Svelte 5: https://frontendmasters.com/blog/fine-grained-reactivity-in-svelte-5/
+* Svelte 4 vs Svelte 5: https://component-party.dev/compare/svelte4-vs-svelte5
+* React.js vs Svelte 5: https://component-party.dev/compare/react-vs-svelte5
