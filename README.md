@@ -3,6 +3,12 @@ Svelte 5.0 + TypeScript + Vite
 
 Svelte 5.0 demo with Vite.js and TypeScript.
 
+# Vite.js with Svelte 5.0
+
+- Upgrade `svelte` to `^5.0.0`
+- Upgrade `@sveltejs/vite-plugin-svelte` to `^4.0.0`
+- Modify `main.ts` according to [Breaking Chagnes](https://svelte-5-preview.vercel.app/docs/breaking-changes)
+
 # References
 
 * Svelte 5.0: https://svelte-5-preview.vercel.app/docs/introduction
