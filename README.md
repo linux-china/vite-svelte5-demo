@@ -1,7 +1,7 @@
 Svelte 5.0 + TypeScript + Vite
 =========================
 
-
+Svelte 5.0 demo with Vite.js and TypeScript.
 
 # References
 
